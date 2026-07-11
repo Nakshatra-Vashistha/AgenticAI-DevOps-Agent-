@@ -1,4 +1,5 @@
-#Sentinel-Agent
+# Sentinel-Agent
+
 Autonomous, Context-Aware DevOps Incident-Response System
 
 https://img.shields.io/badge/python-3.10+-blue.svg
@@ -6,12 +7,17 @@ https://img.shields.io/badge/FastAPI-0.115.6-green.svg
 https://img.shields.io/badge/LangGraph-0.2.0-orange.svg
 https://img.shields.io/badge/License-MIT-yellow.svg
 
-📋 Overview
+# 📋 Overview
+
 Sentinel-Agent transforms chaotic incident response into a structured, multi-agent pipeline. When production breaks, engineers spend precious time context-switching across tools—logs, repositories, Slack threads, monitoring dashboards. Sentinel-Agent orchestrates this entire lifecycle, from production alert to reviewed repair proposal and root-cause analysis.
 
 The system ingests incidents via webhook or terminal, gathers targeted context through an MCP tool server, routes the incident through four specialized LangGraph agents, and produces a structured RCA with Slack delivery—all in under 11 minutes at a natural speaking pace.
 
-🎯 The Incident Response Gap
+***
+
+
+# 🎯 The Incident Response Gap
+
 Today, incident response is fragmented across multiple tools:
 
 
