@@ -3,9 +3,13 @@
 Autonomous, Context-Aware DevOps Incident-Response System
 
 https://img.shields.io/badge/python-3.10+-blue.svg
+
 https://img.shields.io/badge/FastAPI-0.115.6-green.svg
+
 https://img.shields.io/badge/LangGraph-0.2.0-orange.svg
+
 https://img.shields.io/badge/License-MIT-yellow.svg
+
 
 # 📋 Overview
 
@@ -22,7 +26,7 @@ Today, incident response is fragmented across multiple tools:
 
 
 
-
+![Architecture](research/deepseek_mermaid_20260711_bc595f)
 
 
 
