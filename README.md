@@ -1,4 +1,4 @@
-Sentinel-Agent
+#Sentinel-Agent
 Autonomous, Context-Aware DevOps Incident-Response System
 
 https://img.shields.io/badge/python-3.10+-blue.svg
