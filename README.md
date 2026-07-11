@@ -26,7 +26,7 @@ Today, incident response is fragmented across multiple tools:
 
 
 
-![Architecture](research/deepseek_mermaid_20260711_bc595f)
+![Architecture](research/deepseek_mermaid_20260711_bc595f.png)
 
 
 
